@@ -1,0 +1,12 @@
+D:\BankAPISample\BankAPISample.Service\bin\Debug\netcoreapp3.1\BankAPISample.Service.deps.json
+D:\BankAPISample\BankAPISample.Service\bin\Debug\netcoreapp3.1\BankAPISample.Service.dll
+D:\BankAPISample\BankAPISample.Service\bin\Debug\netcoreapp3.1\BankAPISample.Service.pdb
+D:\BankAPISample\BankAPISample.Service\obj\Debug\netcoreapp3.1\BankAPISample.Service.csprojAssemblyReference.cache
+D:\BankAPISample\BankAPISample.Service\obj\Debug\netcoreapp3.1\BankAPISample.Service.AssemblyInfoInputs.cache
+D:\BankAPISample\BankAPISample.Service\obj\Debug\netcoreapp3.1\BankAPISample.Service.AssemblyInfo.cs
+D:\BankAPISample\BankAPISample.Service\obj\Debug\netcoreapp3.1\BankAPISample.Service.csproj.CoreCompileInputs.cache
+D:\BankAPISample\BankAPISample.Service\obj\Debug\netcoreapp3.1\BankAPISample.Service.dll
+D:\BankAPISample\BankAPISample.Service\obj\Debug\netcoreapp3.1\BankAPISample.Service.pdb
+D:\BankAPISample\BankAPISample.Service\bin\Debug\netcoreapp3.1\BankAPISample.Service.runtimeconfig.json
+D:\BankAPISample\BankAPISample.Service\bin\Debug\netcoreapp3.1\BankAPISample.Service.runtimeconfig.dev.json
+D:\BankAPISample\BankAPISample.Service\obj\Debug\netcoreapp3.1\BankAPISample.Service.genruntimeconfig.cache
